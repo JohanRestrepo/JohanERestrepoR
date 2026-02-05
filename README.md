@@ -53,7 +53,7 @@
 <li>Python, Angular, AWS (S3 and EC2)</li>
 <li>Agile methodologies (Scrum and Kanban) and leadership in projects.</li>
 
-<h3>RAPPI 🧭</h3>
+<h3>RAPPI 2022 - 2023🧭</h3>
 <strong>Data Scientist Jr</strong>
 <li>Launching experiments (Canary and Blue-Green methods).</li>
 <li>QA planning and execution.</li>
@@ -63,7 +63,7 @@
 <li>Process documentation.</li>
 <li>Python and MySQL</li>
 
-<h3>EAFIT🧬</h3>
+<h3>EAFIT 2017 - 2022🧬</h3>
 <strong>CRM analyst</strong>
 <li>Management and administration of CRM tools.</li>
 <li>Resolution of doubts and training management.</li>
