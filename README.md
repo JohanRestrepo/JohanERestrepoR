@@ -36,7 +36,7 @@
   <strong>Languages:</strong> Java, JavaScript, Python, HTML, CSS<br/>
   <strong>Frameworks:</strong> Spring Boot, Angular<br/>
   <strong>Tools:</strong> Git, GitHub, Scrum, Kanban, Jira<br/>
-  <strong>Philosophies:</strong> SOLID, DDD, Clean Code, Clean Architecture, DevOps
+  <strong>Philosophies:</strong> SOLID, DDD, Clean Code, Clean Architecture, DevOps<br/>
   <strong>Design pattern:</strong> Repository, Adapter, Factory, Singleton, Strategy<br/>
   <strong>Cloud:</strong> AWS (S3, EC2, Rute 53, AMI)<br/>
 </p>
