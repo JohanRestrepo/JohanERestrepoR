@@ -34,10 +34,11 @@
 
 <p>
   <strong>Languages:</strong> Java, JavaScript, Python, HTML, CSS<br/>
-  <strong>Frameworks:</strong> Spring Boot, React<br/>
-  <strong>Tools:</strong> GitHub, Scrum, Kanbam<br/>
-  <strong>Design:</strong> SOLID, Repository, Adapter, Factory<br/>
-  <strong>Cloud:</strong> AWS<br/>
+  <strong>Frameworks:</strong> Spring Boot, Angular<br/>
+  <strong>Tools:</strong> Git, GitHub, Scrum, Kanban, Jira<br/>
+  <strong>Philosophies:</strong> SOLID, DDD, Clean Code, Clean Architecture, DevOps
+  <strong>Design pattern:</strong> Repository, Adapter, Factory, Singleton, Strategy<br/>
+  <strong>Cloud:</strong> AWS (S3, EC2, Rute 53, AMI)<br/>
 </p>
 
 <hr/>
@@ -47,32 +48,32 @@
 <h3>ITIS 2023 - 2025 🛫</h3>
 <strong>Functional consultant for Oracle tools</strong>
 <li>Case resolution of Eloqua, Sales Cloud, PPM, HCM.</li>
-<li>Requirements gathering.</li>
-<li>Management of clients and report preparation.</li>
-<li>Planning of projects and execution.</li>
-<li>Practice in Python, AWS and jira.</li>
+<li>Requirements gathering, management of clients and report preparation.</li>
+<li>Planning of projects and execution</li>
+<li>Python, Angular, AWS (S3 and EC2)</li>
+<li>Agile methodologies (Scrum and Kanban) and leadership in projects.</li>
 
 <h3>RAPPI 🧭</h3>
 <strong>Data Scientist Jr</strong>
-<li>Launching experiments in the Split tool.</li>
+<li>Launching experiments (Canary and Blue-Green methods).</li>
 <li>QA planning and execution.</li>
 <li>Dashboard generation in Snowflake.</li>
-<li>Data analisis and data presentation.</li>
-<li>Generation of Queries.</li>
+<li>Data analysis and data presentation.</li>
+<li>Agile methodologies (Scrum and Kanban).</li>
 <li>Process documentation.</li>
-<li>Python and SQL</li>
+<li>Python and MySQL</li>
 
 <h3>EAFIT🧬</h3>
 <strong>CRM analyst</strong>
 <li>Management and administration of CRM tools.</li>
-<li>Resolution of doubts.</li>
-<li>Training management.</li>
+<li>Resolution of doubts and training management.</li>
 <li>Leadership of improvement projects.</li>
 <li>Database maintenance.</li>
-<li>Data análisis and data presentation.</li>
+<li>Data analysis and data presentation.</li>
 <li>Implementation of automatic processes.</li>
-<li>Form editing (HTML, CSS y JavaScript).</li>
+<li>Pages editing (HTML, CSS y JavaScript).</li>
 <li>Java, Swagger y AWS.</li>
+<li>SOLID and DDD.</li>
 
 <hr/>
 
